@@ -4,14 +4,18 @@ This repository contains comprehensive bug reports for the Amigo Project across 
 Repository Structure
 
 Alpha Releases:
+
 Detailed bug reports from the Alpha testing phase.
 Includes initial findings, critical issues, and feedback from early testers.
+
 Beta Releases:
 Bug reports collected during the Beta testing phase.
 Focus on usability issues, performance metrics, and user feedback integration.
-QA Resolved Bugs
+
+QA Resolved Bugs:
 Documentation of bugs identified and resolved by the QA team.
 Includes resolution steps, verification details, and final status.
+
 Purpose:
 This repository serves as a central hub for tracking the progress of bug identification and resolution throughout the development lifecycle of the Amigo Project. By maintaining a structured and detailed log of all reported issues, we aim to:
 
